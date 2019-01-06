@@ -7,109 +7,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d8676580-4047-411f-bb21-60d850b184c5" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/test/CommonCook.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaCoding.iml" beforeDir="false" afterPath="$PROJECT_DIR$/javaCoding.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaCoding/array/Container.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaCoding/array/LIS.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaCoding/array/NQueen.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaCoding/array/canJump.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaCoding/array/fourSum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaCoding/array/generateParenthesis.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaCoding/array/searchRange.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaCoding/array/threeSum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaCoding/backtracking/Jiejiuxiaoha.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaCoding/backtracking/combinationSum2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaCoding/backtracking/combinationSum3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaCoding/backtracking/combine.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaCoding/backtracking/exist.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaCoding/bishi/Apple.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaCoding/bishi/Fruit.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaCoding/bishi/Jonathan.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaCoding/bishi/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaCoding/bishi/first.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaCoding/bishi/orange.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaCoding/bishi/test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaCoding/design/Client.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaCoding/design/Father.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaCoding/design/Son.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaCoding/dynamic/longestPalindrome.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaCoding/dynamic/maxSubArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaCoding/dynamic/minimumTotal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaCoding/dynamic/uniquePaths.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaCoding/dynamic/uniquePathsWithObstacles.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaCoding/greedy/canCompleteCircuit.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaCoding/other/first.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaCoding/other/jinkuang.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaCoding/shunxun/convert.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaCoding/shunxun/lengthOfLongestSubstring.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaCoding/stack/dailyTemperatures.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaCoding/stack/inorderTraversal$TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaCoding/stack/inorderTraversal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaCoding/stack/preorderTraversal$TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaCoding/stack/preorderTraversal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaCoding/test/coin.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaCoding/test/eightQueue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaCoding/test/first.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaCoding/test/list.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaCoding/util/BFS$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaCoding/util/BFS.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaCoding/util/BinarySearch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaCoding/util/PolishNotation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaCoding/xiaozhao/xz2017/fifth.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaCoding/xiaozhao/xz2017/first.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaCoding/xiaozhao/xz2017/forth.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaCoding/xiaozhao/xz2017/second$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaCoding/xiaozhao/xz2017/second.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaCoding/xiaozhao/xz2017/third.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/array/Container.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/array/LIS.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/array/NQueen.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/array/canJump.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/array/fourSum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/array/generateParenthesis.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/array/searchRange.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/array/threeSum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/backtracking/Jiejiuxiaoha.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/backtracking/combinationSum2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/backtracking/combinationSum3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/backtracking/combine.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/backtracking/exist.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/bishi/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/bishi/first.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/bishi/test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/design/Client.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/design/Father.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/design/Son.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/design/proxy/GamePlayer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/design/proxy/GamePlayerProxy.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/design/proxy/IGamePlayer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/design/proxy/firs.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dynamic/longestPalindrome.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dynamic/maxSubArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dynamic/minimumTotal.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dynamic/uniquePaths.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dynamic/uniquePathsWithObstacles.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/greedy/canCompleteCircuit.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/other/first.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/other/jinkuang.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/shunxun/convert.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/shunxun/lengthOfLongestSubstring.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/stack/dailyTemperatures.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/stack/inorderTraversal.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/stack/preorderTraversal.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/coin.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/eightQueue.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/first.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/list.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/util/BFS.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/util/BinarySearch.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/util/PolishNotation.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/xiaozhao/xz2017/fifth.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/xiaozhao/xz2017/first.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/xiaozhao/xz2017/forth.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/xiaozhao/xz2017/second.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/xiaozhao/xz2017/third.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/test/list.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/xiaozhao/xz2017/forth.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -128,47 +29,54 @@
     <session id="1728676493">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="17" />
+          <entry key="project.closed" value="22" />
           <entry key="project.open.time.16" value="2" />
           <entry key="project.open.time.2" value="4" />
-          <entry key="project.open.time.23" value="1" />
+          <entry key="project.open.time.23" value="2" />
           <entry key="project.open.time.28" value="1" />
           <entry key="project.open.time.3" value="5" />
+          <entry key="project.open.time.34" value="1" />
           <entry key="project.open.time.4" value="4" />
-          <entry key="project.open.time.6" value="1" />
-          <entry key="project.opened" value="19" />
+          <entry key="project.open.time.6" value="2" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.opened" value="23" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="2" />
-          <entry key="java" value="228" />
+          <entry key="java" value="255" />
           <entry key="test" value="4" />
           <entry key="txt" value="4" />
-          <entry key="wsdl" value="1" />
+          <entry key="wsdl" value="2" />
           <entry key="xml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="2" />
-          <entry key="JAVA" value="228" />
+          <entry key="JAVA" value="255" />
           <entry key="PLAIN_TEXT" value="8" />
-          <entry key="XML" value="2" />
+          <entry key="XML" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="25968" />
+          <entry key="java" value="26700" />
           <entry key="txt" value="29" />
           <entry key="xml" value="18" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="25968" />
+          <entry key="JAVA" value="26700" />
           <entry key="PLAIN_TEXT" value="29" />
           <entry key="XML" value="18" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.vcs.git.usages">
+        <counts>
+          <entry key="git.branch.create.new" value="1" />
         </counts>
       </usages-collector>
     </session>
@@ -176,83 +84,60 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/test/GuavaTester.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/test/CommonCook.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="174">
-              <caret line="12" column="57" selection-start-line="12" selection-start-column="57" selection-end-line="12" selection-end-column="57" />
+            <state relative-caret-position="342">
+              <caret line="28" selection-start-line="28" selection-end-line="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/xiaozhao/xz2017/TypeParameterTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-126">
+              <caret line="25" column="34" lean-forward="true" selection-start-line="25" selection-start-column="34" selection-end-line="25" selection-end-column="34" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#184#185#0" expanded="true" />
+                <element signature="e#239#240#0" expanded="true" />
+                <element signature="e#380#381#0" expanded="true" />
+                <element signature="e#436#437#0" expanded="true" />
+                <element signature="e#504#512#0" expanded="true" />
+                <element signature="e#951#952#0" expanded="true" />
+                <element signature="e#978#979#0" expanded="true" />
+                <element signature="e#817#818#0" expanded="true" />
+                <element signature="e#849#850#0" expanded="true" />
+                <element signature="e#1213#1214#0" expanded="true" />
+                <element signature="e#1234#1235#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/test/HelloWorld.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/xiaozhao/xz2017/fifth.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="73">
-              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+            <state relative-caret-position="61">
+              <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/array/threeSum.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/xiaozhao/xz2017/third.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="112">
-              <caret line="15" column="49" selection-start-line="15" selection-start-column="49" selection-end-line="15" selection-end-column="49" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/test/HelloWorld.wsdl">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/test/list.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="128">
-              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/test/WebSvrClient.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="18" column="37" selection-start-line="18" selection-start-column="37" selection-end-line="18" selection-end-column="37" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/test/StudentOuterClass.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-6920">
-              <caret line="19" column="28" lean-forward="true" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
-              <folding>
-                <element signature="e#26439#26808#0" expanded="true" />
-                <element signature="e#26807#26808#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="-39">
+              <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/test/Student2.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/xiaozhao/xz2017/forth.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="16" selection-start-line="16" selection-end-line="16" />
+            <state relative-caret-position="361">
+              <caret line="19" column="45" lean-forward="true" selection-start-line="19" selection-start-column="45" selection-end-line="19" selection-end-column="45" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -261,19 +146,46 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/axis/axis/1.4/axis-1.4.jar!/org/apache/axis/client/Call.class">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/List.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-749">
-              <caret line="82" column="13" selection-start-line="82" selection-start-column="13" selection-end-line="82" selection-end-column="13" />
+            <state relative-caret-position="196">
+              <caret line="543" column="6" selection-start-line="543" selection-start-column="6" selection-end-line="543" selection-end-column="6" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
+        <entry file="file://$PROJECT_DIR$/src/main/java/test/Base.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="183">
-              <caret line="19" column="34" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
+            <state relative-caret-position="323">
+              <caret line="19" selection-start-line="19" selection-end-line="20" selection-end-column="52" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/lang/Integer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="185">
+              <caret line="51" column="39" selection-start-line="51" selection-start-column="39" selection-end-line="51" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/lang/Number.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="54" column="22" selection-start-line="54" selection-start-column="22" selection-end-line="54" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/test/eightQueue.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -299,6 +211,7 @@
       <find>str[i]</find>
       <find>K</find>
       <find>str[i++]</find>
+      <find>compareto</find>
     </findStrings>
     <replaceStrings>
       <replace>int</replace>
@@ -308,15 +221,15 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/design/observer/dns/Cilent.java" />
-        <option value="$PROJECT_DIR$/src/xiaozhao/xz2017/aiqiyi/second.java" />
-        <option value="$PROJECT_DIR$/src/xiaozhao/xz2017/aiqiyi/Heap.java" />
-        <option value="$PROJECT_DIR$/src/xiaozhao/xz2017/aiqiyi/first.java" />
-        <option value="$PROJECT_DIR$/src/xiaozhao/xz2017/yy/first.java" />
         <option value="$PROJECT_DIR$/src/xiaozhao/xz2017/yy/KuangMountain.java" />
         <option value="$PROJECT_DIR$/src/xiaozhao/xz2017/hhh.java" />
         <option value="$PROJECT_DIR$/src/xiaozhao/xz2017/xiaohongshu/first.java" />
@@ -363,6 +276,11 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/test/Student.java" />
         <option value="$PROJECT_DIR$/src/main/java/test/Student2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/test/list.java" />
+        <option value="$PROJECT_DIR$/src/main/java/test/CommonCook.java" />
+        <option value="$PROJECT_DIR$/src/main/java/xiaozhao/xz2017/Dog.java" />
+        <option value="$PROJECT_DIR$/src/main/java/xiaozhao/xz2017/TypeParameterTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/xiaozhao/xz2017/forth.java" />
       </list>
     </option>
   </component>
@@ -385,10 +303,10 @@
     <option name="FILTER_DEBUG" value="true" />
     <option name="CUSTOM_FILTER" />
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="y" value="23" />
     <option name="width" value="1280" />
-    <option name="height" value="722" />
+    <option name="height" value="703" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -436,6 +354,32 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="javaCoding" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javaCoding" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="test2.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="javaCoding" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javaCoding" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="xz2017" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javaCoding" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javaCoding" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="xz2017" type="462c0819:PsiDirectoryNode" />
+              <item name="TypeParameterTest.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -449,7 +393,7 @@
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/lib/dt.jar!/sun/swing/BeanInfoUtils.class" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542983794573" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546322654963" />
     <property name="create.test.in.the.same.root" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -483,7 +427,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Student2">
+  <component name="RunManager" selected="Application.forth">
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
       <module name="" />
       <option name="TESTING_TYPE" value="0" />
@@ -517,8 +461,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GuavaTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.GuavaTester" />
+    <configuration name="CommonCook" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.CommonCook" />
       <module name="javaCoding" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -538,6 +482,20 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TypeParameterTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="xiaozhao.xz2017.TypeParameterTest" />
+      <module name="javaCoding" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="xiaozhao.xz2017.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -565,27 +523,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="first" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="xiaozhao.xz2017.jinri.first" />
+    <configuration name="forth" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="xiaozhao.xz2017.forth" />
       <module name="javaCoding" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="xiaozhao.xz2017.jinri.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.test2" />
-      <module name="javaCoding" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="test.*" />
+          <option name="PATTERN" value="xiaozhao.xz2017.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -835,19 +779,19 @@
     </configuration>
     <list>
       <item itemvalue="Tomcat Server.Unnamed" />
-      <item itemvalue="Application.first" />
-      <item itemvalue="Application.test2" />
-      <item itemvalue="Application.GuavaTester" />
       <item itemvalue="Application.WebSvrClient" />
       <item itemvalue="Application.Student2" />
+      <item itemvalue="Application.CommonCook" />
+      <item itemvalue="Application.forth" />
+      <item itemvalue="Application.TypeParameterTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.forth" />
+        <item itemvalue="Application.TypeParameterTest" />
+        <item itemvalue="Application.CommonCook" />
         <item itemvalue="Application.Student2" />
         <item itemvalue="Application.WebSvrClient" />
-        <item itemvalue="Application.GuavaTester" />
-        <item itemvalue="Application.test2" />
-        <item itemvalue="Application.first" />
       </list>
     </recent_temporary>
   </component>
@@ -910,18 +854,22 @@
       <workItem from="1537958661309" duration="8054000" />
       <workItem from="1538996178569" duration="7671000" />
       <workItem from="1542375536711" duration="1150000" />
-      <workItem from="1542962649575" duration="9157000" />
+      <workItem from="1542962649575" duration="9877000" />
+      <workItem from="1543062297876" duration="1103000" />
+      <workItem from="1545380169374" duration="1201000" />
+      <workItem from="1545650358596" duration="60000" />
+      <workItem from="1546171582757" duration="3969000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="329894000" />
+    <option name="totallyTimeSpent" value="336947000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="722" extended-state="0" />
+    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24717286" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26332796" />
       <window_info id="Structure" order="1" weight="0.24959612" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -929,19 +877,19 @@
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info id="Nl-Palette" order="7" />
-      <window_info anchor="bottom" id="Application Servers" weight="0.66190475" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.45079365" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3968254" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.5222222" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.1520548" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.30547947" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="9" weight="0.34444445" />
+      <window_info anchor="bottom" id="Messages" order="9" weight="0.34383562" />
       <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Application Servers" order="12" weight="0.66190475" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -1074,8 +1022,8 @@
           <option name="timeStamp" value="73" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/test/list.java</url>
-          <line>19</line>
+          <url>file://$PROJECT_DIR$/src/main/java/test/CommonCook.java</url>
+          <line>39</line>
           <properties />
           <option name="timeStamp" value="75" />
         </line-breakpoint>
@@ -1351,6 +1299,12 @@
           <properties />
           <option name="timeStamp" value="191" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/xiaozhao/xz2017/forth.java</url>
+          <line>10</line>
+          <properties />
+          <option name="timeStamp" value="193" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/annotation/hibernates/IBaseDao.java</url>
           <line>9</line>
@@ -1375,7 +1329,9 @@
       <configuration name="Application">
         <watch expression="char tmp=board[x+1][y]" />
         <watch expression="board[x+1][y]" />
+        <watch expression="src.get(1).getClass()" language="JAVA" />
         <watch expression="word.charAt(start)" />
+        <watch expression="dest.getClass()" language="JAVA" />
         <watch expression="clazz.getDeclaredField(&quot;appleName&quot;).get(clazz.newInstance())" language="JAVA" />
         <watch expression="board[x][y-1]" />
         <watch expression="board==boardtmp2" language="JAVA" />
@@ -1408,148 +1364,53 @@
     </expressions>
     <expressions id="watch">
       <expression>
-        <expression-string>clazz.getDeclaredField(&quot;appleName&quot;).get(clazz.newInstance())</expression-string>
+        <expression-string>src.get(1).getClass()</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>clazz.getDeclaredField(&quot;appleName&quot;).get()</expression-string>
+        <expression-string>src.get(1).getClass().</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>clazz.getDeclaredField(&quot;appleName&quot;).name</expression-string>
+        <expression-string>src.get(1).getClass().isInstance(Number.class)</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>clazz.getDeclaredField(&quot;appleName&quot;)</expression-string>
+        <expression-string>((Integer) src.get(1)).getClass().isInstance(Number.class)</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>clazz.getDeclaredField(&quot;fruitName&quot;)</expression-string>
+        <expression-string>((Integer) src.get(1)).getClass().isInstance(Integer.class)</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>clazz.getDeclaredField(&quot;&quot;)</expression-string>
+        <expression-string>((Integer) src.get(1)).getClass().isInstance(Integer)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>src.get(1)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>dest.getClass()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>dest</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/xiaozhao/xz2017/jingri/SimplePath.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="313">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/xiaozhao/xz2017/shunfeng/first.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-18">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/dynamic/maxSubArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/dynamic/longestPalindrome.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="356">
-          <caret line="36" column="54" selection-start-line="36" selection-start-column="54" selection-end-line="36" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/xiaozhao/xz2017/jingri/qiuiquiqu.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" column="7" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/xiaozhao/xz2017/jingri/qiuqiuqiu2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1216">
-          <caret line="64" column="42" selection-start-line="64" selection-start-column="42" selection-end-line="64" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/annotation/FruitName.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/lang/Class.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="139">
-          <caret line="2124" column="75" selection-start-line="2124" selection-start-column="49" selection-end-line="2124" selection-end-column="75" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/annotation/Apple.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="214">
-          <caret line="43" column="50" selection-start-line="43" selection-start-column="50" selection-end-line="43" selection-end-column="50" />
-          <folding>
-            <element signature="e#367#368#0" expanded="true" />
-            <element signature="e#411#412#0" expanded="true" />
-            <element signature="e#447#448#0" expanded="true" />
-            <element signature="e#480#481#0" expanded="true" />
-            <element signature="e#530#531#0" expanded="true" />
-            <element signature="e#572#573#0" expanded="true" />
-            <element signature="e#607#608#0" expanded="true" />
-            <element signature="e#639#640#0" expanded="true" />
-            <element signature="e#697#698#0" expanded="true" />
-            <element signature="e#747#748#0" expanded="true" />
-            <element signature="e#786#787#0" expanded="true" />
-            <element signature="e#822#823#0" expanded="true" />
-            <element signature="e#854#855#0" expanded="true" />
-            <element signature="e#901#902#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/annotation/FruitColor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="18" column="32" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/annotation/FruitProvider.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="271">
-          <caret line="24" column="36" lean-forward="true" selection-start-line="24" selection-start-column="36" selection-end-line="24" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/annotation/hibernates/Table.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="21" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/xiaozhao/xz2017/xiaohongshu/forth.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="296">
-          <caret line="27" column="13" lean-forward="true" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/annotation/FruitInfoUtil.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="181">
@@ -1689,13 +1550,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/test/first.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="19" column="6" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/xiaozhao/xz2017/jinri/ss.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="950">
@@ -1728,9 +1582,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="437">
           <caret line="26" column="40" selection-start-line="26" selection-start-column="40" selection-end-line="26" selection-end-column="40" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1741,41 +1592,52 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/test/test2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="15" selection-start-line="15" selection-start-column="15" selection-end-line="15" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/test/Base.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" selection-start-line="19" selection-end-line="20" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/test/GuavaTester.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="174">
-          <caret line="12" column="57" selection-start-line="12" selection-start-column="57" selection-end-line="12" selection-end-column="57" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/array/threeSum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
+        <state relative-caret-position="247">
           <caret line="15" column="49" selection-start-line="15" selection-start-column="49" selection-end-line="15" selection-end-column="49" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/test/list.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/concurrent/FutureTask.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        <state relative-caret-position="3192">
+          <caret line="205" column="25" selection-start-line="205" selection-start-column="25" selection-end-line="205" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/concurrent/RunnableFuture.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="47" column="56" selection-start-line="47" selection-start-column="56" selection-end-line="47" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/concurrent/Future.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1178">
+          <caret line="95" column="17" selection-start-line="95" selection-start-column="17" selection-end-line="95" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/axis/axis/1.4/axis-1.4.jar!/org/apache/axis/client/Call.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="82" column="13" selection-start-line="82" selection-start-column="13" selection-end-line="82" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="34" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/lang/Comparable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="95" column="17" selection-start-line="95" selection-start-column="17" selection-end-line="95" selection-end-column="17" />
         </state>
       </provider>
     </entry>
@@ -1788,21 +1650,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/test/HelloWorld.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="73">
+        <state relative-caret-position="152">
           <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/axis/axis/1.4/axis-1.4.jar!/org/apache/axis/client/Call.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-749">
-          <caret line="82" column="13" selection-start-line="82" selection-start-column="13" selection-end-line="82" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/test/WebSvrClient.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
+        <state relative-caret-position="247">
           <caret line="18" column="37" selection-start-line="18" selection-start-column="37" selection-end-line="18" selection-end-column="37" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1810,28 +1665,139 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/java/test/test2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="183">
-          <caret line="19" column="34" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/test/StudentOuterClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-6920">
-          <caret line="19" column="28" lean-forward="true" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
-          <folding>
-            <element signature="e#26439#26808#0" expanded="true" />
-            <element signature="e#26807#26808#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="285">
+          <caret line="15" column="15" selection-start-line="15" selection-start-column="15" selection-end-line="15" selection-end-column="15" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/test/Student2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        <state relative-caret-position="418">
+          <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/test/StudentOuterClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="28" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/test/GuavaTester.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="12" column="57" selection-start-line="12" selection-start-column="57" selection-end-line="12" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/test/first.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="19" column="6" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/test/eightQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/test/CommonCook.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/test/Base.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" selection-start-line="19" selection-end-line="20" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/xiaozhao/xz2017/Animal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="366">
+          <caret line="26" column="7" lean-forward="true" selection-start-line="26" selection-start-column="7" selection-end-line="40" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#700#701#0" expanded="true" />
+            <element signature="e#727#728#0" expanded="true" />
+            <element signature="e#766#767#0" expanded="true" />
+            <element signature="e#798#799#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/xiaozhao/xz2017/TypeParameterTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-126">
+          <caret line="25" column="34" lean-forward="true" selection-start-line="25" selection-start-column="34" selection-end-line="25" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#184#185#0" expanded="true" />
+            <element signature="e#239#240#0" expanded="true" />
+            <element signature="e#380#381#0" expanded="true" />
+            <element signature="e#436#437#0" expanded="true" />
+            <element signature="e#504#512#0" expanded="true" />
+            <element signature="e#951#952#0" expanded="true" />
+            <element signature="e#978#979#0" expanded="true" />
+            <element signature="e#817#818#0" expanded="true" />
+            <element signature="e#849#850#0" expanded="true" />
+            <element signature="e#1213#1214#0" expanded="true" />
+            <element signature="e#1234#1235#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/xiaozhao/xz2017/fifth.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="61">
+          <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/xiaozhao/xz2017/third.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-39">
+          <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/lang/Integer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="51" column="39" selection-start-line="51" selection-start-column="39" selection-end-line="51" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/lang/Number.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="54" column="22" selection-start-line="54" selection-start-column="22" selection-end-line="54" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="543" column="6" selection-start-line="543" selection-start-column="6" selection-end-line="543" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/xiaozhao/xz2017/forth.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="45" lean-forward="true" selection-start-line="19" selection-start-column="45" selection-end-line="19" selection-end-column="45" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
